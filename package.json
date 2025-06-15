@@ -21,7 +21,7 @@
     "@nuxtjs/google-analytics": "^2.4.0",
     "@nuxtjs/sitemap": "^2.4.0",
     "@nuxtjs/tailwindcss": "^3.4.3",
-    "@tailwindcss/typography": "^0.4.1",
+    "@tailwindcss/typography": "^0.5.16",
     "nuxt": "^2.15.7",
     "prism-themes": "^1.7.0",
     "rehype-plugin-image-native-lazy-loading": "^1.2.0",
