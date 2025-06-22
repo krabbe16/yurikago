@@ -1,7 +1,6 @@
 {
   "name": "yurikago",
   "description": "技術ブログ",
-  "author": "Hiroki Kawaguchi",
   "private": true,
   "scripts": {
     "dev": "nuxt-ts",
